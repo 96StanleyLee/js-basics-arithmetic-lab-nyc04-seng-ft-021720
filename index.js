@@ -9,4 +9,4 @@ let random = Math.random() + 1
 
 let mod = 24 % 5
 
-
+let max = Math.max(20)
