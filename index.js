@@ -6,3 +6,5 @@ let var2 = 2
 let multiply = var1 * var2
 
 let random = Math.random() + 1 
+
+let 
