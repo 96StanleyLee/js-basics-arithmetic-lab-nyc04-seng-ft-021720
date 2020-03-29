@@ -5,4 +5,4 @@ let var2 = 2
 
 let multiply = var1 * var2
 
-let random = Math.random(0..9)
+let random = Math.random
