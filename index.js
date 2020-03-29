@@ -7,4 +7,6 @@ let multiply = var1 * var2
 
 let random = Math.random() + 1 
 
-let mod = 
+let mod = 24 % 5
+
+
